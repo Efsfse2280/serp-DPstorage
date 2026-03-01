@@ -1,17 +1,20 @@
-name: serpbalance
-displayName: "#serpulo-balancing"
+name: serpDP
+displayName: "DP storage (serpulo)"
 author: "many"
 description:
   '''
-all json-able mature balancing tweaks from the channel will (most likely) be here.
+DP storage (serpulo)
+all "datapatcheable" mature balance proposals/ideas from the channel will (most likely) be here in the form of datapatches.
 
-Current changes list:
+Inflicts a global overdrive nerf of halving boost %. +(25-67.5-75)
 
-- halved overdrive nerf +(25-62.5-75)%.
-- AB bcost nerf.
+### Current Balance datapatches;
+- Jehosulas's Rebalance
+- Efsfse's dp testing ground
 
-Also contains maps with different balancing datapatches.
+
+(to add new balance proposals, simply do a PR with the .msav file on github)
   '''
-version: 0.12
+version: 1
 minGameVersion: 155
 hidden: false
