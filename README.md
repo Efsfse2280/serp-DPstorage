@@ -1,10 +1,6 @@
 # #serpulo-balancing
-all json-able mature balancing tweaks from the channel will (most likely) be here.
+all json-able mature balancing tweaks from the channel will (most likely) be here in the form of datapatches.
 
-## Current changes list:
-
-- halved overdrive nerf +(25-62.5-75)%.
-
-- AB bcost nerf.
-
-#### Contains maps with different balancing datapatches.
+#### Current Balance datapatches;
+- Jehosulas's Rebalance
+- Efsfse's dp testing ground
